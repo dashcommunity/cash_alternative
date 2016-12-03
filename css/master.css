@@ -1,4 +1,28 @@
 body {
-  color: #ffffff;
-  background-color: #0b3b5a;
+  /*color: #ffffff;
+  background-color: #0b3b5a;*/
+}
+
+#hero {
+  margin-bottom: 2%;
+}
+
+#hero img {
+  width: 100%;
+}
+
+#row1 img {
+  width: 12.5%
+}
+
+#row2 img {
+  width: 25%;
+}
+
+#row3 img {
+  width: 50%;
+}
+
+#row4 img {
+  width: 100%;
 }
